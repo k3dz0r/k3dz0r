@@ -1,4 +1,4 @@
-## I am Konon the Librarian!
+## Konon the Librarian
 
 I use Arch btw
 ```
