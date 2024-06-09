@@ -1,6 +1,5 @@
 ## Konon the Librarian
 
-I use Arch btw
 ```
                    -`
                   .o+`
